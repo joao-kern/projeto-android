@@ -15,8 +15,8 @@
   --cor5: #063d1e;
 
   --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
-  --fonte-destaque: "Bebas Neue", cursive;
-  --fonte-android: "Idroid", cursive;
+  --fonte-destaque: "Bebas Neue", Arial, Verdana;
+  --fonte-android: "Idroid", Arial, Verdana;
 }
 
 * {
@@ -52,7 +52,7 @@ header > p {
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
   max-width: 500px;
   margin: auto;
-  margin-bottom: 20px;
+  padding-bottom: 20px;
   padding-right: 10px;
   padding-left: 10px;
 }
